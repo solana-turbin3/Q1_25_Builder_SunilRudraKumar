@@ -17,8 +17,8 @@ To get started with this monorepo, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/solana-learning-monorepo.git
-    cd solana-learning-monorepo
+    git clone https://github.com/solana-turbin3/Q1_25_Builder_SunilRudraKumar.git
+    cd Q1_25_Builder_SunilRudraKumar
     ```
 
 2. **Install dependencies**:
